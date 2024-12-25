@@ -1,3 +1,5 @@
+[![typograssy](https://typograssy.deno.dev/api?text=Haruto%20Fukushina&comment=Haruto%20Fukushina)](https://github.com/kawarimidoll/typograssy)
+
 # 自己紹介
 - KADOKAWAドワンゴ情報工科学院 2年次 福品 悠翔
 - 26卒
