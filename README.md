@@ -42,7 +42,7 @@
   <img src="https://skillicons.dev/icons?i=python,php,javascript,typescript,html,css" />
 </div>
 
-## フレームワーク
+## フレームワーク（ライブラリ）
 <div style="display: flex;">
   <img src="https://skillicons.dev/icons?i=laravel,next,react,tailwindcss" />
 </div>
