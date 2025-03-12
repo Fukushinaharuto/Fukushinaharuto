@@ -29,6 +29,9 @@
 ### バックエンド
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fukushinaharuto&repo=SiteForestBack)](https://github.com/Fukushinaharuto/SiteForestBack)
 
+### バックエンド・フロントエンド(nginxに移行中)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fukushinaharuto&repo=SiteForestBack)](https://github.com/Fukushinaharuto/SiteForest)
+
 
 
 
