@@ -8,6 +8,10 @@
 <br />
 <br />
 
+## 文化祭RPG
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fukushinaharuto&repo=BunkasaiRPG)]([https://github.com/Fukushinaharuto/ShopApp](https://github.com/vantan-project/bunkasairpg))
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fukushinaharuto&repo=ShopApp)](https://github.com/Fukushinaharuto/ShopApp)
 
 ## ECサイト
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fukushinaharuto&repo=ShopApp)](https://github.com/Fukushinaharuto/ShopApp)
